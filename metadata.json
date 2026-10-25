@@ -1,0 +1,8 @@
+{
+  "name": "Super Mario: Enterprise Resource Quest",
+  "description": "An authentic retro Super Mario platformer where question blocks and knowledge gates test and reinforce your Enterprise Resource Management (ERM) knowledge from lecture notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
